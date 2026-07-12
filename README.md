@@ -27,7 +27,7 @@ Pada project ini dilakukan klasifikasi sentimen review aplikasi Shopee yang bera
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Flask
