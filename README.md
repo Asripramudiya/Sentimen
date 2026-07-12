@@ -1,4 +1,4 @@
-# 🛍️ Analisis Sentimen Review Shopee
+# Analisis Sentimen Review Shopee
 
 Aplikasi berbasis **Machine Learning** untuk mengklasifikasikan sentimen review pengguna Shopee ke dalam tiga kategori:
 
@@ -101,7 +101,7 @@ Deployment (Flask)
 
 ---
 
-## ⚙️ Machine Learning
+## Machine Learning
 
 Model yang dibandingkan:
 
@@ -118,7 +118,7 @@ Model terbaik dipilih berdasarkan:
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy
 - Precision
@@ -128,7 +128,7 @@ Model terbaik dipilih berdasarkan:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Input review secara langsung
 - Preprocessing otomatis
@@ -138,7 +138,7 @@ Model terbaik dipilih berdasarkan:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Klasifikasi-Sentimen-Shopee/
@@ -158,7 +158,7 @@ Klasifikasi-Sentimen-Shopee/
 
 ---
 
-## ▶️ Installation
+## Installation
 
 Clone repository
 
